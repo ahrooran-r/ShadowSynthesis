@@ -1,4 +1,8 @@
-./original_images
-./shadow_masks
-./ss
-./.idea
+.idea
+original
+source
+mask
+model
+target
+test
+final_mask
